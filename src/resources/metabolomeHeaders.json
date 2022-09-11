@@ -1,0 +1,13 @@
+[
+  { "field": "Order", "headerName": "Order", "minWidth": 150, "flex": 1},
+  { "field": "Family", "headerName": "Family", "minWidth": 150, "flex": 1},
+  { "field": "Genus species", "headerName": "Species", "minWidth": 150, "flex": 1},
+  { "field": "Strain", "headerName": "Strain", "minWidth": 150, "flex": 1},
+  { "field": "Host species", "headerName": "Host Species", "minWidth": 150, "flex": 1},
+  { "field": "Location", "headerName": "Location", "minWidth": 150, "flex": 1},
+  { "field": "ITS seq", "headerName": "ITS seq", "minWidth": 150, "flex": 1},
+  { "field": "Genome", "headerName": "Genome", "minWidth": 150, "flex": 1},
+  { "field": "Metabolome", "headerName": "Metabolome", "minWidth": 150, "flex": 1},
+  { "field": "Clusters", "headerName": "Clusters", "minWidth": 150, "flex": 1},
+  { "field": "Citations", "headerName": "Citations", "minWidth": 150, "flex": 1}
+]

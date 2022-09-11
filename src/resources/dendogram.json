@@ -1,0 +1,154 @@
+{
+  "name": "Rubiaceae",
+  "children": [
+    {
+      "name": "Rubioideae",
+      "children": [
+        {
+          "name": "Psychotrieae",
+          "children": [
+            {
+              "name": "Notopleura",
+              "children": [
+                {
+                  "name": "Notopleura polyphlebia"
+                }
+              ]
+            },
+            {
+              "name": "Ronabea",
+              "children": [
+                {
+                  "name": "Ronabea latifolia"
+                }
+              ]
+            },
+            {
+              "name": "Psychotria",
+              "children": [
+                {
+                  "name": "Psychotria panamensis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cinchonoideae",
+      "children": [
+        {
+          "name": "Isertieae",
+          "children": [
+            {
+              "name": "Isertia",
+              "children": [
+                {
+                  "name": "Isertia haenkeana"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ixoroideae",
+      "children": [
+        {
+          "name": "Condamineeae",
+          "children": [
+            {
+              "name": "Chimarrhis",
+              "children": [
+                {
+                  "name": "Chimarrhis latifolia"
+                }
+              ]
+            },
+            {
+              "name": "Simira",
+              "children": [
+                {
+                  "name": "Simira maxonii"
+                }
+              ]
+            },
+            {
+              "name": "Macrocnemum",
+              "children": [
+                {
+                  "name": "Macrocnemum roseum"
+                }
+              ]
+            },
+            {
+              "name": "Warszewiczia",
+              "children": [
+                {
+                  "name": "Warszewiczia coccinea"
+                }
+              ]
+            },
+            {
+              "name": "Rustia",
+              "children": [
+                {
+                  "name": "Rustia costaricensis"
+                }
+              ]
+            },
+            {
+              "name": "Sommera",
+              "children": [
+                {
+                  "name": "Sommera donnell-smithii"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Posoquerieae",
+          "children": [
+            {
+              "name": "Posoqueria",
+              "children": [
+                {
+                  "name": "Posoqueria latifolia"
+                },
+                {
+                  "name": "Posoqueria grandiflora"
+                  }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gardenieae complex",
+          "children": [
+            {
+              "name": "Bertiereae - Coffeeae clade",
+              "children": [
+                {
+                  "name": "Coffeeae",
+                  "children": [
+                    {
+                      "name": "Coffea",
+                      "children": [
+                        {
+                          "name": "Coffea arabica"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

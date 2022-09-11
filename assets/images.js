@@ -1,0 +1,13 @@
+export { default as coffea_arabica } from "./species/coffea_arabica/coffea_arabica.jpg";
+export { default as isertia_haenkeana } from "./species/isertia_haenkeana/isertia_haenkeana.jpg";
+export { default as macrocnemum_roseum } from "./species/macrocnemum_roseum/macrocnemum_roseum.jpg";
+export { default as notopleura_polyphlebia } from "./species/notopleura_polyphlebia/notopleura_polyphlebia.jpg";
+export { default as posoqueria_grandiflora } from "././species/posoqueria_grandiflora/posoqueria_grandiflora.jpg";
+export { default as posoqueria_latifolia } from "./species/posoqueria_latifolia/posoqueria_latifolia.jpg";
+export { default as psychotria_panamensis } from "./species/psychotria_panamensis/psychotria_panamensis.jpg";
+export { default as ronabea_latifolia } from "./species/ronabea_latifolia/ronabea_latifolia.jpg";
+export { default as rustia_costaricensis } from "./species/rustia_costaricensis/rustia_costaricensis.jpg";
+export { default as simira_maxonii } from "./species/simira_maxonii/simira_maxonii.jpg";
+export { default as sommera_donnell_smithii } from "./species/sommera_donnell-smithii/sommera_donnell-smithii.jpg";
+export { default as warszewiczia_coccinea } from "./species/warszewiczia_coccinea/warszewiczia_coccinea.jpg";
+export { default as chimarrhis_latifolia } from "./species/chimarrhis_latifolia/chimarrhis_latifolia.jpg";

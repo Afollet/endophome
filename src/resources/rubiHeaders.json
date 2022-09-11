@@ -1,0 +1,37 @@
+[
+    {
+ "field": "Tribe",
+ "headerName": "Tribe",
+ "width": 300 
+},
+ 
+    {
+ "field": "Species",
+ "headerName": "Species",
+ "width": 300,
+ }
+},
+    {
+ "field": "Voucher (collector,collector number,herbarium)",
+ "headerName": "Voucher (collector, collector number, herbarium)",
+ "width": 300 
+},
+ 
+    {
+ "field": "Barcode of herbarium voucher",
+ "headerName": "Barcode of herbarium voucher",
+ "width": 300 
+},
+
+    {
+ "field": "Microbiome",
+ "headerName": "Microbiome",
+ "width": 300 
+},
+
+    {
+ "field": "Genome",
+ "headerName": "Genome",
+ "width": 300 
+} 
+]

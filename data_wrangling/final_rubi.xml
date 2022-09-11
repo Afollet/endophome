@@ -1,0 +1,136 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>Rubiaceae</name>
+      <branch_length>4.0</branch_length>
+      <clade>
+        <name>Rubioideae</name>
+        <branch_length>4.0</branch_length>
+        <clade>
+          <name>Psychotrieae</name>
+          <branch_length>4.0</branch_length>
+          <clade>
+            <name>Notopleura</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Notopleura polyphlebia</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <name>Ronabea</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Ronabea latifolia</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <name>Psychotria</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Psychotria panamensis</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <name>Cinchonoideae</name>
+        <branch_length>4.0</branch_length>
+        <clade>
+          <name>Isertieae</name>
+          <branch_length>4.0</branch_length>
+          <clade>
+            <name>Isertia</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Isertia haenkeana</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <name>Ixoroideae</name>
+        <branch_length>4.0</branch_length>
+        <clade>
+          <name>Condamineeae</name>
+          <branch_length>4.0</branch_length>
+          <clade>
+            <name>Chimarrhis</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Chimarrhis latifolia</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <name>Simira</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Simira maxonii</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <name>Macrocnemum</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Macrocnemum roseum</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <name>Warszewiczia</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Warszewiczia coccinea</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <name>Rustia</name>
+            <branch_length>4.0</branch_length>
+          </clade>
+          <clade>
+            <name>Sommera donnell-smithii</name>
+            <branch_length>4.0</branch_length>
+          </clade>
+        </clade>
+        <clade>
+          <name>Posoquerieae</name>
+          <branch_length>4.0</branch_length>
+          <clade>
+            <name>Posoqueria</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Posoqueria latifolia</name>
+              <branch_length>4.0</branch_length>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>Gardenieae complex</name>
+          <branch_length>4.0</branch_length>
+          <clade>
+            <name>Bertiereae - Coffeeae clade</name>
+            <branch_length>4.0</branch_length>
+            <clade>
+              <name>Coffeeae</name>
+              <branch_length>4.0</branch_length>
+              <clade>
+                <name>Coffea</name>
+                <branch_length>4.0</branch_length>
+                <clade>
+                  <name>Coffea arabica</name>
+                  <branch_length>4.0</branch_length>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

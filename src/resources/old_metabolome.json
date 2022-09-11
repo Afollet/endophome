@@ -1,0 +1,530 @@
+[
+  {
+    "Classification": "alkaloid",
+    "Compound": "cytochalasin D (2)",
+    "Endophytic": "Xylaria sp.",
+    "Species_name": "Palicourea marcgravii ",
+    "Biological Activities": "antifungal",
+    "id": 0
+  },
+  {
+    "Classification": "alkaloid",
+    "Compound": "quinine (118)",
+    "Endophytic": "Colletotrichum spp.",
+    "Species_name": "Cinchona ledgeriana ",
+    "Biological Activities": "antiprotozoal",
+    "id": 1
+  },
+  {
+    "Classification": "alkaloid",
+    "Compound": "brevianamide F (150)",
+    "Endophytic": "Colletotrichum gloeosporioides ",
+    "Species_name": "Uncaria rhynchophylla ",
+    "Biological Activities": "cytotoxic",
+    "id": 2
+  },
+  {
+    "Classification": "alkaloid",
+    "Compound": "11-bromoroquefortine (190)",
+    "Endophytic": "Penicillium chrysogenum ",
+    "Species_name": "Coffea arabica ",
+    "Biological Activities": "antibacterial, antiprotozoal, cytotoxic",
+    "id": 3
+  },
+  {
+    "Classification": "coumarin",
+    "Compound": "4-hydroxy-mellein (9)",
+    "Endophytic": "Penicillium sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "antifungal, acetylcholinesterase inhibitor, anti-hyperglycemic ",
+    "id": 4
+  },
+  {
+    "Classification": "coumarin",
+    "Compound": "8-methyl-mellein (10)",
+    "Endophytic": "Penicillium sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "Antifungal",
+    "id": 5
+  },
+  {
+    "Classification": "coumarin",
+    "Compound": "(R)-7-hydroxymellein (12)",
+    "Endophytic": "Penicillium sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "antifungal, acetylcholinesterase inhibitor",
+    "id": 6
+  },
+  {
+    "Classification": "coumarin",
+    "Compound": "(3R,4R)-4,7-dihydroxymellein (13)",
+    "Endophytic": "Penicillium sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "antifungal, acetylcholinesterase inhibitor",
+    "id": 7
+  },
+  {
+    "Classification": "coumarin",
+    "Compound": "3S,4R-(+)-4-hydroxymellein (46)",
+    "Endophytic": "Xylaria feejeensis ",
+    "Species_name": "Hintonia latiflora ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 8
+  },
+  {
+    "Classification": "coumarin",
+    "Compound": "mellein (137)",
+    "Endophytic": "Colletotrichum gloeosporioides ",
+    "Species_name": "Uncaria rhynchophylla ",
+    "Biological Activities": "monoamine oxidase inhibitor",
+    "id": 9
+  },
+  {
+    "Classification": "diketopiperazine",
+    "Compound": "cyclo-(L-Pro-L-Val) (7)",
+    "Endophytic": "Penicillium sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "acetylcholinesterase inhibitor",
+    "id": 10
+  },
+  {
+    "Classification": "diketopiperazine",
+    "Compound": "cyclo(L-Leu-L-Leu) (149)",
+    "Endophytic": "Colletotrichum gloeosporioides ",
+    "Species_name": "Uncaria rhynchophylla ",
+    "Biological Activities": "cytotoxic",
+    "id": 11
+  },
+  {
+    "Classification": "diterpene",
+    "Compound": "koninginol A (74)",
+    "Endophytic": "Trichoderma koningiopsis ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "antifungal",
+    "id": 12
+  },
+  {
+    "Classification": "diterpene",
+    "Compound": "koninginol B (75)",
+    "Endophytic": "Trichoderma koningiopsis ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "antifungal, cytotoxic",
+    "id": 13
+  },
+  {
+    "Classification": "fatty acid",
+    "Compound": "(R)-3-hydroxyundecanoic acid methylester-3-O-α-L-rhamnopyranoside (174)",
+    "Endophytic": "Guignardia sp.",
+    "Species_name": "Scyphiphora hydrophyllacea ",
+    "Biological Activities": "antibacterial",
+    "id": 14
+  },
+  {
+    "Classification": "meroterpene",
+    "Compound": "guignardone I (171)",
+    "Endophytic": "Guignardia sp.",
+    "Species_name": "Scyphiphora hydrophyllacea ",
+    "Biological Activities": "antibacterial",
+    "id": 15
+  },
+  {
+    "Classification": "meroterpene",
+    "Compound": "guignardone B (173)",
+    "Endophytic": "Guignardia sp.",
+    "Species_name": "Scyphiphora hydrophyllacea ",
+    "Biological Activities": "antibacterial",
+    "id": 16
+  },
+  {
+    "Classification": "phenolic compound",
+    "Compound": "orcinol (6)",
+    "Endophytic": "Penicillium sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "antifungal",
+    "id": 17
+  },
+  {
+    "Classification": "phenolic compound",
+    "Compound": "thielavins A (42)",
+    "Endophytic": "Chaetomium sp.",
+    "Species_name": "Hintonia latiflora ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 18
+  },
+  {
+    "Classification": "phenolic compound",
+    "Compound": "thielavins J (43)",
+    "Endophytic": "Chaetomium sp.",
+    "Species_name": "Hintonia latiflora ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 19
+  },
+  {
+    "Classification": "phenolic compound",
+    "Compound": "thielavins K (44)",
+    "Endophytic": "Chaetomium sp.",
+    "Species_name": "Hintonia latiflora ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 20
+  },
+  {
+    "Classification": "phenolic compound",
+    "Compound": "cytosporaphenone A (50)",
+    "Endophytic": "Cytospora rhizophorae ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 21
+  },
+  {
+    "Classification": "phenolic compound",
+    "Compound": "resorcinol (201)",
+    "Endophytic": "Chaetomium cupreum ",
+    "Species_name": "Mussaenda luteola ",
+    "Biological Activities": "antibacterial",
+    "id": 22
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "2-hexyl-3-methyl-butanodioic acid (1)",
+    "Endophytic": "Xylaria sp.",
+    "Species_name": "Palicourea marcgravii ",
+    "Biological Activities": "antifungal",
+    "id": 23
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "(2E,4R)-2,4-dimethylnon-2-enoic acid (22)",
+    "Endophytic": "Camarops sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "acetylcholinesterase inhibitor",
+    "id": 24
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "(2E,4S)-2,4-dimethyloct-2-enoic acid (30).",
+    "Endophytic": "Camarops sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "acetylcholinesterase inhibitor",
+    "id": 25
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "5-hydroxy-2,7-dimethoxy-8-methylnaphthoquinone (33)",
+    "Endophytic": "Sporormiella minimoides ",
+    "Species_name": "Hintonia latiflora ",
+    "Biological Activities": "human calmodulin inhibitor",
+    "id": 26
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "minimoidione (34)",
+    "Endophytic": "Sporormiella minimoides ",
+    "Species_name": "Hintonia latiflora ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 27
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "vermelhotin (41)",
+    "Endophytic": "Sporormiella minimoides ",
+    "Species_name": "Hintonia latiflora ",
+    "Biological Activities": "human calmodulin inhibitor",
+    "id": 28
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "2,4,8-trihydroxy-1-tetralone (64)",
+    "Endophytic": "Alternaria sp.",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 29
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "3,4-dihydro-3,4,8-trihydroxy-1[2H]-naphthalenone (65)",
+    "Endophytic": "Alternaria sp.",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 30
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "6-hydroxy-4-isopropyl-1,8-dimethylspiro[4.5]deca-1,8-dien-7-one (91)",
+    "Endophytic": "Trichoderma spirale ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 31
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "2-hydroxy-2,5-dimethyl-7-oxo-5,7-dihydro-2H-furo[3,4-b]pyran-4-carboxylicacid (92)",
+    "Endophytic": "Trichoderma spirale ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 32
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "3-ethyl-4-hydroxy-6-methyl-2H-pyran-2-one (93)",
+    "Endophytic": "Trichoderma spirale ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 33
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "harzialactone A (94)",
+    "Endophytic": "Trichoderma spirale ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 34
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "3-hydroxy-5-(4-hydroxybenzyl)dihydrofuran-2(3H)-one (95)",
+    "Endophytic": "Trichoderma spirale ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 35
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "4-acetyl-3-hydroxy-6-methyl-pyan-2-one (96)",
+    "Endophytic": "Trichoderma spirale ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 36
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "multiforisin I (107)",
+    "Endophytic": "Neurospora discrete ",
+    "Species_name": "Morinda lucida ",
+    "Biological Activities": "cytotoxic",
+    "id": 37
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "curvularide B (110)",
+    "Endophytic": "Curvularia geniculata ",
+    "Species_name": "Catunaregam tomentosa ",
+    "Biological Activities": "antifungal",
+    "id": 38
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "mycoepoxydiene (114)",
+    "Endophytic": "Diaporthe pseudomangiferae ",
+    "Species_name": "Cinchona ledgeriana ",
+    "Biological Activities": "cytotoxic",
+    "id": 39
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "mycoleptones A (122)",
+    "Endophytic": "Mycoleptodiscus indicus ",
+    "Species_name": "Borreria verticillata ",
+    "Biological Activities": "antiprotozoal, cytotoxic",
+    "id": 40
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "mycoleptones B (123)",
+    "Endophytic": "Mycoleptodiscus indicus ",
+    "Species_name": "Borreria verticillata ",
+    "Biological Activities": "antiprotozoal",
+    "id": 41
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "austidiol (125)",
+    "Endophytic": "Mycoleptodiscus indicus ",
+    "Species_name": "Borreria verticillata ",
+    "Biological Activities": "antiprotozoal",
+    "id": 42
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "colletopeptide A (162)",
+    "Endophytic": "Colletotrichum sp.",
+    "Species_name": "Rubia pondantha ",
+    "Biological Activities": "anti-inflammatory, antioxidant",
+    "id": 43
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "colletopeptide B (163)",
+    "Endophytic": "Colletotrichum sp.",
+    "Species_name": "Rubia pondantha ",
+    "Biological Activities": "anti-inflammatory, antioxidant",
+    "id": 44
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "colletopeptide C (164)",
+    "Endophytic": "Colletotrichum sp.",
+    "Species_name": "Rubia pondantha ",
+    "Biological Activities": "anti-inflammatory, antioxidant",
+    "id": 45
+  },
+  {
+    "Classification": "polyketide",
+    "Compound": "colletopeptide D (165)",
+    "Endophytic": "Colletotrichum sp.",
+    "Species_name": "Rubia pondantha ",
+    "Biological Activities": "anti-inflammatory, antioxidant",
+    "id": 46
+  },
+  {
+    "Classification": "quinone",
+    "Compound": "6-epi-stemphytriol (69)",
+    "Endophytic": "Alternaria sp.",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 47
+  },
+  {
+    "Classification": "quinone",
+    "Compound": "dihydroalterperylenol (70)",
+    "Endophytic": "Alternaria sp.",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "anti-hyperglycemic, cytotoxic",
+    "id": 48
+  },
+  {
+    "Classification": "quinone",
+    "Compound": "alterperylenol (71)",
+    "Endophytic": "Alternaria sp.",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 49
+  },
+  {
+    "Classification": "quinone",
+    "Compound": "altertoxin II (72)",
+    "Endophytic": "Alternaria sp.",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "anti-hyperglycemic",
+    "id": 50
+  },
+  {
+    "Classification": "quinone",
+    "Compound": "stemphyperylenol (73)",
+    "Endophytic": "Alternaria sp.",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "antifungal, anti-hyperglycemic",
+    "id": 51
+  },
+  {
+    "Classification": "quinone",
+    "Compound": "cercosporin (177)",
+    "Endophytic": "Mycosphaerella sp.",
+    "Species_name": "Psychotria horizontalis ",
+    "Biological Activities": "antiprotozoal, cytotoxic",
+    "id": 52
+  },
+  {
+    "Classification": "quinone",
+    "Compound": "6-(heptacosa-18′Zenyl)-2-(18”hydroxyl-1”enyl-19” oxy)-3-hydroxybenzoquinone (202)",
+    "Endophytic": "Chaetomium cupreum ",
+    "Species_name": "Mussaenda luteola ",
+    "Biological Activities": "antibacterial, cytotoxic",
+    "id": 53
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "xylarenones G (18)",
+    "Endophytic": "Camarops sp.",
+    "Species_name": "Alibertia macrophylla ",
+    "Biological Activities": "anti-inflammatory",
+    "id": 54
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "1R,3S,6S,7R,10S-7-isopropyl-4,10-dimethylbicyclo[4.4.0]dec-4-en-3,10-diol (88)",
+    "Endophytic": "Trichoderma koningiopsis ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 55
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "1R,3R,6S,7R,10S-7-isopropyl-4,10-dimethylbicyclo[4.4.0]dec-4-en-3,10-diol (89)",
+    "Endophytic": "Trichoderma koningiopsis ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 56
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "lithocarin B (102)",
+    "Endophytic": "Diaporthe lithocarpus ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 57
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "lithocarin C (103)",
+    "Endophytic": "Diaporthe lithocarpus ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 58
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "tenellone H (105)",
+    "Endophytic": "Diaporthe lithocarpus ",
+    "Species_name": "Morinda officinalis ",
+    "Biological Activities": "cytotoxic",
+    "id": 59
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "eremofortin F (117)",
+    "Endophytic": "Diaporthe pseudomangiferae ",
+    "Species_name": "Cinchona ledgeriana ",
+    "Biological Activities": "cytotoxic",
+    "id": 60
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "colletotrichine A (133)",
+    "Endophytic": "Colletotrichum gloeosporioides ",
+    "Species_name": "Uncaria rhynchophylla ",
+    "Biological Activities": "acetylcholinesterase inhibitor",
+    "id": 61
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "colletotrichine B (134)",
+    "Endophytic": "Colletotrichum gloeosporioides ",
+    "Species_name": "Uncaria rhynchophylla ",
+    "Biological Activities": "acetylcholinesterase inhibitor",
+    "id": 62
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "stelliophaerols A (192)",
+    "Endophytic": "Stelliosphaera formicum ",
+    "Species_name": "Duroia hirsuta ",
+    "Biological Activities": "antibacterial",
+    "id": 63
+  },
+  {
+    "Classification": "sesquiterpene",
+    "Compound": "stelliophaerols B (193)",
+    "Endophytic": "Stelliosphaera formicum ",
+    "Species_name": "Duroia hirsuta ",
+    "Biological Activities": "antibacterial",
+    "id": 64
+  },
+  {
+    "Classification": "steroid",
+    "Compound": "(3β–5α–dihydroxy–6β–phenylacetyloxy–ergosta–7, 22–diene) (203)",
+    "Endophytic": "Chaetomium cupreum ",
+    "Species_name": "Mussaenda luteola ",
+    "Biological Activities": "antibacterial, cytotoxic",
+    "id": 65
+  }
+]
